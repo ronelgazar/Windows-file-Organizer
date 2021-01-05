@@ -1,4 +1,4 @@
-# **File Organizer for windows **
+# Windows File Organizer for windows
 
 ## Overview
 
@@ -15,12 +15,26 @@ No dependencies or additional libraries required.
 1. Start your favorite Command-Line program
 
 2. Change your current directory, to where the project is saved.
-3. ```shell
-python gui.py
+![picture](Images/step1.png)
+
+3. Run the Script
+```shell 
+   python main.py
 ```
+![picture](Images/step2.png)
+
 4. Choose the Source folder and The Destination folder (target folder).
+
+![picture](Images/ui.png)
+
 5. Press start and Let it run !
-6. You might be asked a few questions, if there is a possibility of overwriting. Answer corresponding to your required action.
+
+![picture](Images/start.png)
+
+6. You might be asked a few questions, if there is a possibility of 
+overwriting. Answer corresponding to your required action.
+
+7. You're done :)
 
 
 
