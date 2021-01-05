@@ -11,7 +11,7 @@ No dependencies or additional libraries required.
 
 
 ---
-##How to use
+## How to use
 1. Start your favorite command-Line program
 
 2. Change your current directory to where the project is saved.
