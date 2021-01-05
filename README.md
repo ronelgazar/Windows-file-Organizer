@@ -12,28 +12,28 @@ No dependencies or additional libraries required.
 
 ---
 ##How to use
-1. Start your favorite Command-Line program
+1. Start your favorite command-Line program
 
-2. Change your current directory, to where the project is saved.
+2. Change your current directory to where the project is saved.
 
 ![picture](Images/step1.png)
 
-3. Run the Script
+3. Run the script
 ```shell 
    python main.py
 ```
 ![picture](Images/step2.png)
 
-4. Choose the Source folder and The Destination folder (target folder).
+4. Choose the source folder and the destination folder (target folder).
 
 ![picture](Images/ui.png)
 
-5. Press start and Let it run !
+5. Press start and let it run !
 
 ![picture](Images/start.png)
 
 6. You might be asked a few questions, if there is a possibility of 
-overwriting. Answer corresponding to your required action.
+overwriting. Act correspondingly to your required action.
 
 7. You're done :)
 
