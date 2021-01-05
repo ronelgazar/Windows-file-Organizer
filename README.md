@@ -15,6 +15,7 @@ No dependencies or additional libraries required.
 1. Start your favorite Command-Line program
 
 2. Change your current directory, to where the project is saved.
+
 ![picture](Images/step1.png)
 
 3. Run the Script
