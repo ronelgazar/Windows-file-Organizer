@@ -1,4 +1,4 @@
-# Windows File Organizer for windows
+# Windows File Organizer
 
 ## Overview
 
