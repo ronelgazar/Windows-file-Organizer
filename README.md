@@ -116,9 +116,8 @@ There are around **1407** extensions currently supported.
 
 
 
+ 
+**Made by: Ron Elgazar**
+
 [Jump to the top](#table-of-contents)
-
-   
-**by: Ron Elgazar**
-
 
