@@ -1,9 +1,9 @@
 # Windows File Organizer
 ## Table Of Contents:
 
-### 1. [Overview](#overview)
-### 2. [Syntax](#how-to-use)
-### 3. [Supported File types](#supported-file-types)
+- ### 1. [Overview](#overview)
+- ### 2. [Syntax](#how-to-use)
+- ### 3. [Supported File types](#supported-file-types)
 
 ## Overview
 
