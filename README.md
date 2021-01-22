@@ -1,4 +1,9 @@
 # Windows File Organizer
+## Table Of Contents:
+
+### 1. [Overview](#overview)
+### 2. [Syntax](#how-to-use)
+### 3. [Supported File types](#supported-file-types)
 
 ## Overview
 
@@ -105,11 +110,15 @@ There are around **1407** extensions currently supported.
    - C#
    - C++
    - C2hs Haskell
-   
 
+## Acknowledgments
+ -  https://github.com/sreekaransrinath/file_organizer - original creator -(I modified his original code and added gui)
+
+
+
+[Jump to the top](#table-of-contents)
+
+   
 **by: Ron Elgazar**
-
-   
-
 
 
