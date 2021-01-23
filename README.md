@@ -112,7 +112,7 @@ There are around **1407** extensions currently supported.
    - C2hs Haskell
 
 ## Acknowledgments
- -  https://github.com/sreekaransrinath/file_organizer - original creator -(I modified his original code and added gui)
+ -   inspired by - https://github.com/sreekaransrinath/file_organizer 
 
 
 
