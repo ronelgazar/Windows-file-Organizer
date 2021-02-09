@@ -6,8 +6,7 @@ import os
 import sys
 from datetime import datetime
 import extensiondict
-import subprocess
-import  fileorganizer
+import  fileorganizer as fo
 import webbrowser
 
 
@@ -70,10 +69,13 @@ class gui():
         self.log_box_1 = tkinter.Text(self.popupscreen, borderwidth=3, relief="sunken")
         self.popupB1.pack()
         self.log_box_1.pack()
+
+        for x in range(len(fo.cleandesk(self.root.sourceFolder,self.root.TargetFolder))):
+            self.log_box_1.insert(tkinter.END, fo.cleandesk(self.root.sourceFolder,self.root.TargetFolder)[x])
 #reading the fileorganizer.py output to write in the popup console for debuging        
-        with subprocess.Popen('python fileorganizer.py '+self.root.sourceFolder+ " "+self.root.TargetFolder, shell=True,stdout=subprocess.PIPE, bufsize=1, universal_newlines=True) as p:
-            for line in p.stdout:
-                self.log_box_1.insert(tkinter.END, line)
+        # with subprocess.Popen('python fileorganizer.py '+self.root.sourceFolder+ " "+self.root.TargetFolder, shell=True,stdout=subprocess.PIPE, bufsize=1, universal_newlines=True) as p:
+            # for line in p.stdout:
+                
         self.popupscreen.mainloop()
 
 #opens My github account with the press of the self.authorsiteloader
